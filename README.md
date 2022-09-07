@@ -25,8 +25,6 @@
   
  <h2 style="background-color:light purple;">  
 </html>
-
-  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
 <h2 style="background-color: light palegreen;"
 <a href="https://www.wikihow.com/Walk">what foot first- a breif introduction, it depends if your right foot dominant or left foot dominant</a>
 <h2 style="background-color: light purple;"
