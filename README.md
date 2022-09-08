@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <title>learn how to walk</title>
@@ -25,8 +24,11 @@
   
  <h2 style="background-color:light purple;">  
 </html>
+
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
 <h2 style="background-color: light palegreen;"
 <a href="https://www.wikihow.com/Walk">what foot first- a breif introduction, it depends if your right foot dominant or left foot dominant</a>
+<h2 style="background-color: light purple;"
 <p> when you walk do you think about it? Or is it sub-counciusly like breathing or blinking? it was a trick question, just do it dont think about nothing</p>
 <style>
 body {
